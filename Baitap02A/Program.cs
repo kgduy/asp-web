@@ -24,4 +24,16 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
+app.MapControllerRoute(
+    name: "trang-chu",
+    pattern: "trang-chu/{action=Index}/{id?}",
+    defaults: new { controller = "Home", action = "Index" });
+
+app.MapControllerRoute(
+    name: "the-loai",
+    pattern: "the-loai/{action=Index}/{id?}",
+    defaults: new { controller = "TheLoai", action = "Index" });
+
+
+
 app.Run();

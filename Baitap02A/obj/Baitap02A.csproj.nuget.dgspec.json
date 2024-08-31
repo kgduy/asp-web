@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\Baitap02A\\Baitap02A.csproj": {}
+    "D:\\LapTrinhWeb\\asp-web\\Baitap02A\\Baitap02A.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\Baitap02A\\Baitap02A.csproj": {
+    "D:\\LapTrinhWeb\\asp-web\\Baitap02A\\Baitap02A.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Baitap02A\\Baitap02A.csproj",
+        "projectUniqueName": "D:\\LapTrinhWeb\\asp-web\\Baitap02A\\Baitap02A.csproj",
         "projectName": "Baitap02A",
-        "projectPath": "C:\\Users\\User\\source\\repos\\Baitap02A\\Baitap02A.csproj",
+        "projectPath": "D:\\LapTrinhWeb\\asp-web\\Baitap02A\\Baitap02A.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\Baitap02A\\obj\\",
+        "outputPath": "D:\\LapTrinhWeb\\asp-web\\Baitap02A\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
