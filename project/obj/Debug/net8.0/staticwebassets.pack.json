@@ -1,264 +1,664 @@
 {
   "Files": [
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\project.bundle.scp.css",
-      "PackagePath": "staticwebassets\\project.bundle.scp.css"
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Project.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Project.bundle.scp.css"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\css\\site.css",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\css\\animate-wow.css",
+      "PackagePath": "staticwebassets\\css\\animate-wow.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\css\\bootstrap-select.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-select.min.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\css\\pricing.css",
+      "PackagePath": "staticwebassets\\css\\pricing.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\css\\select2.min.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\favicon.ico",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\css\\slick.min.css",
+      "PackagePath": "staticwebassets\\css\\slick.min.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\js\\site.js",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\150x150.png",
+      "PackagePath": "staticwebassets\\images\\150x150.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\about-icon-1.png",
+      "PackagePath": "staticwebassets\\images\\about-icon-1.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\about-icon-2.png",
+      "PackagePath": "staticwebassets\\images\\about-icon-2.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\about-icon-3.png",
+      "PackagePath": "staticwebassets\\images\\about-icon-3.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\bg_img1.png",
+      "PackagePath": "staticwebassets\\images\\bg_img1.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\bg_main.png",
+      "PackagePath": "staticwebassets\\images\\bg_main.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\cooming-pc.png",
+      "PackagePath": "staticwebassets\\images\\cooming-pc.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\creat_pro.png",
+      "PackagePath": "staticwebassets\\images\\creat_pro.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\create-icon.jpg",
+      "PackagePath": "staticwebassets\\images\\create-icon.jpg"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\exciting_img-01.jpg",
+      "PackagePath": "staticwebassets\\images\\exciting_img-01.jpg"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\exciting_img-02.jpg",
+      "PackagePath": "staticwebassets\\images\\exciting_img-02.jpg"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\flag-up-1.png",
+      "PackagePath": "staticwebassets\\images\\flag-up-1.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\flag-up-2.png",
+      "PackagePath": "staticwebassets\\images\\flag-up-2.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\flag.png",
+      "PackagePath": "staticwebassets\\images\\flag.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\footer_bg.png",
+      "PackagePath": "staticwebassets\\images\\footer_bg.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\get-icon.jpg",
+      "PackagePath": "staticwebassets\\images\\get-icon.jpg"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\help-icon.png",
+      "PackagePath": "staticwebassets\\images\\help-icon.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\how-is-works-img-02.jpg",
+      "PackagePath": "staticwebassets\\images\\how-is-works-img-02.jpg"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\how-is-works-img-03.jpg",
+      "PackagePath": "staticwebassets\\images\\how-is-works-img-03.jpg"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\how-is-works-img-03.png",
+      "PackagePath": "staticwebassets\\images\\how-is-works-img-03.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\icon-b1.png",
+      "PackagePath": "staticwebassets\\images\\icon-b1.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\icon-b2.png",
+      "PackagePath": "staticwebassets\\images\\icon-b2.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\icon-b3.png",
+      "PackagePath": "staticwebassets\\images\\icon-b3.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\icon-b4.png",
+      "PackagePath": "staticwebassets\\images\\icon-b4.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\icon-b5.png",
+      "PackagePath": "staticwebassets\\images\\icon-b5.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\lag-60.png",
+      "PackagePath": "staticwebassets\\images\\lag-60.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\lag-61.png",
+      "PackagePath": "staticwebassets\\images\\lag-61.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\lag-63.png",
+      "PackagePath": "staticwebassets\\images\\lag-63.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\list-img-01.png",
+      "PackagePath": "staticwebassets\\images\\list-img-01.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\list-img-02.png",
+      "PackagePath": "staticwebassets\\images\\list-img-02.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\list-img-03.png",
+      "PackagePath": "staticwebassets\\images\\list-img-03.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\list-img-04.png",
+      "PackagePath": "staticwebassets\\images\\list-img-04.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\list-img-05.png",
+      "PackagePath": "staticwebassets\\images\\list-img-05.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\list-img-06.png",
+      "PackagePath": "staticwebassets\\images\\list-img-06.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\logo_w.png",
+      "PackagePath": "staticwebassets\\images\\logo_w.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\mac-about.png",
+      "PackagePath": "staticwebassets\\images\\mac-about.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\map.png",
+      "PackagePath": "staticwebassets\\images\\map.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\plus-icon.png",
+      "PackagePath": "staticwebassets\\images\\plus-icon.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\pricing_icon_1.png",
+      "PackagePath": "staticwebassets\\images\\pricing_icon_1.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\pricing_icon_2.png",
+      "PackagePath": "staticwebassets\\images\\pricing_icon_2.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\pricing_icon_3.png",
+      "PackagePath": "staticwebassets\\images\\pricing_icon_3.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\pricing_icon_4.png",
+      "PackagePath": "staticwebassets\\images\\pricing_icon_4.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\pricing_icon_5.png",
+      "PackagePath": "staticwebassets\\images\\pricing_icon_5.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\pricing_icon_6.png",
+      "PackagePath": "staticwebassets\\images\\pricing_icon_6.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\pricing_icon_7.png",
+      "PackagePath": "staticwebassets\\images\\pricing_icon_7.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\pricing_icon_8.png",
+      "PackagePath": "staticwebassets\\images\\pricing_icon_8.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\pricing_icon_9.png",
+      "PackagePath": "staticwebassets\\images\\pricing_icon_9.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\product\\1.png",
+      "PackagePath": "staticwebassets\\images\\product\\1.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\product\\10.png",
+      "PackagePath": "staticwebassets\\images\\product\\10.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\product\\11.png",
+      "PackagePath": "staticwebassets\\images\\product\\11.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\product\\12.png",
+      "PackagePath": "staticwebassets\\images\\product\\12.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\product\\13.png",
+      "PackagePath": "staticwebassets\\images\\product\\13.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\product\\2.png",
+      "PackagePath": "staticwebassets\\images\\product\\2.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\product\\4.png",
+      "PackagePath": "staticwebassets\\images\\product\\4.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\product\\5.png",
+      "PackagePath": "staticwebassets\\images\\product\\5.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\report-icon.jpg",
+      "PackagePath": "staticwebassets\\images\\report-icon.jpg"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\images\\search-icon.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\supplier-pc-img.png",
+      "PackagePath": "staticwebassets\\images\\supplier-pc-img.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\tr1.png",
+      "PackagePath": "staticwebassets\\images\\tr1.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\tr2.png",
+      "PackagePath": "staticwebassets\\images\\tr2.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\tr3.png",
+      "PackagePath": "staticwebassets\\images\\tr3.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\tr4.png",
+      "PackagePath": "staticwebassets\\images\\tr4.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\works-icon-01.png",
+      "PackagePath": "staticwebassets\\images\\works-icon-01.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\works-icon-02.png",
+      "PackagePath": "staticwebassets\\images\\works-icon-02.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\works-icon-03.png",
+      "PackagePath": "staticwebassets\\images\\works-icon-03.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\images\\xpann-icon.jpg",
+      "PackagePath": "staticwebassets\\images\\xpann-icon.jpg"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\js\\bootstrap-select.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-select.min.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\js\\index.js",
+      "PackagePath": "staticwebassets\\js\\index.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\js\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\js\\jquery.nicescroll.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nicescroll.min.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\js\\jquery.scrollbar.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollbar.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\js\\select2.full.min.js",
+      "PackagePath": "staticwebassets\\js\\select2.full.min.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\js\\wow.js",
+      "PackagePath": "staticwebassets\\js\\wow.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\wow.min.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\LapTrinhWeb\\asp-web\\project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\LapTrinhWeb\\asp-web\\Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.project.props",
-      "PackagePath": "build\\project.props"
-    },
-    {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.project.props",
-      "PackagePath": "buildMultiTargeting\\project.props"
-    },
-    {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.project.props",
-      "PackagePath": "buildTransitive\\project.props"
-    },
-    {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Project.props",
+      "PackagePath": "build\\Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Project.props",
+      "PackagePath": "buildMultiTargeting\\Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Project.props",
+      "PackagePath": "buildTransitive\\Project.props"
     }
   ],
   "ElementsToRemove": []

@@ -1,13 +1,15 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Authorization.Infrastructure;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using project.Data;
-using project.Models;
-using System.Collections.Generic;
+using Project.Data;
+using Project.Models;
 
-namespace project.Controllers
+namespace Project.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = "Admin")]
     public class SanPhamController : Controller
     {
         private readonly ApplicationDbContext _db;
@@ -17,7 +19,7 @@ namespace project.Controllers
         }
         public IActionResult Index()
         {
-            IEnumerable < SanPham > sanpham = _db.SanPham.Include("TheLoai").ToList();
+            IEnumerable<SanPham> sanpham = _db.SanPham.Include("TheLoai").ToList();
             return View(sanpham);
         }
         [HttpGet]

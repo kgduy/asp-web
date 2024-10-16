@@ -1,8 +1,8 @@
-﻿using project.Models;
-using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using Project.Models;
 
-namespace project.Data
+namespace Project.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {
@@ -10,7 +10,8 @@ namespace project.Data
             : base(options)
         {
         }
-        public DbSet<TheLoai> TheLoai {  get; set; }
+        public DbSet<TheLoai> TheLoai { get; set; }
         public DbSet<SanPham> SanPham { get; set; }
-    }   
+        public DbSet<ApplicationUser> ApplicationUser { get; set; }
+    }
 }
